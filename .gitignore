@@ -1,0 +1,22 @@
+# Node / Next.js
+node_modules/
+.next/
+.turbo/
+.vercel/
+out/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+
